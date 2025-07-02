@@ -51,6 +51,9 @@ To visualize and analyze how actual revenue compares with forecasts and targets,
 - 🎛 **Interactive Filters**:  
   - Product, Customer Segment, Region, Month
 
+
+![revenue dashborad](https://github.com/user-attachments/assets/3439bfa4-2caa-4c47-8e3f-845fa9be14c2)
+
 ---
 
 ## 📈 Insights & Recommendations
